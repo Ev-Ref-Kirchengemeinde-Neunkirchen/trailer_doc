@@ -1,0 +1,5 @@
+site_name: Kirchenanhänger
+site_url: https://example.com
+theme: readthedocs
+markdown_extensions:
+  - admonition
