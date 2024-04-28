@@ -45,4 +45,4 @@ Folgende Schritte sind durchzuführen:
 
 !!! warning "Achtung!"
 
-    Bitte vor der Abfahrt die Sicht durch die Außenspiegel des Zugfahrzeugs kontrollieren. Sollte die Sicht nach hinten durch die Breite des Anhängers eingeschränkt sein, sind ggf. Außenspiegelaufsätze auf die Außenspiel des Zugfahrzeuges aufzusetzen, diese befinden sich im Aufbau ind er Kiste "Anhängerzubehör".
+    Bitte vor der Abfahrt die Sicht durch die Außenspiegel des Zugfahrzeugs kontrollieren. Sollte die Sicht nach hinten durch die Breite des Anhängers eingeschränkt sein, sind ggf. Außenspiegelaufsätze auf die Außenspiel des Zugfahrzeuges aufzusetzen, diese befinden sich im Aufbau in der Kiste "Anhängerzubehör".

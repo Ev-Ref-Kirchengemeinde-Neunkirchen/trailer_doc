@@ -3,3 +3,6 @@ site_url: https://example.com
 theme: readthedocs
 markdown_extensions:
   - admonition
+plugins:
+  - search
+  - print-site
