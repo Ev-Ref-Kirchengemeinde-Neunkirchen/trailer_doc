@@ -6,3 +6,10 @@ markdown_extensions:
 plugins:
   - search
   - print-site
+nav:
+  - index.md
+  - übernahme.md
+  - aufbau.md
+  - stromversorgung.md
+  - stromerzeuger.md
+  - tontechnik.md
