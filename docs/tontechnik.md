@@ -47,3 +47,24 @@ Des Weiteren ist im Rack ein Bluetooth-Receiver zur drahtlosen Audiowiedergabe v
 
     Das Mischpult ist mit der Option "Safe main levels" konfiguriert, so dass bei jedem Start der Main-Regler auf -∞ steht.
 
+## Kanalbelegung / Zuordnung der XLR-Buchsen
+
+### Eingänge
+
+| Physikalischer Anschluss  | Kanal X32 Rack    | Belegung                  |
+|---                        |---                |---                        |
+| S16 In 1-16               | In 1-16           | Keine Standardbelegung    |
+| X32 In 1                  | In 17             | Funk-Handmikrofon         |
+| X32 In 2                  | In 18             | Funk-Headset              |
+| X32 In 3-4                | In 19-20          | BT L/R                    |
+| X32 In 5-16               | In 21-32          | NC                        |
+| X32 Aux In 1-6            | Aux In 1-6        | NC                        |
+
+### Ausgänge
+
+| Physikalischer Anschluss  | Belegung      |
+|---                        |---            |
+| S16 Out 1-6               | MixBus 1-6    |
+| S16 Out 7-8               | Main L/R      |
+| X32 Out 1-4               | Mixbus 9-12   |
+| X32 Out 5-8               | Fx 1-4        |
