@@ -25,7 +25,7 @@ Das Tontechnikrack ist mit folgenden Einbauten versehen (von unten nach oben):
 - Digitalisches Mischpult Behringer X32
 - Funkempfänger für Headset und Handmikrofon
 - Antennensplitter für Funkmikrofone
-- Router
+- Router (siehe [Netzwerk](network.md))
 
 Des Weiteren ist im Rack ein Bluetooth-Receiver zur drahtlosen Audiowiedergabe verbaut.
 

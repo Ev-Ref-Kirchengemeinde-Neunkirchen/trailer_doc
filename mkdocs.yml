@@ -1,11 +1,17 @@
-site_name: Kirchenanhänger
+site_name: "Kirchenanhänger"
 site_url: https://example.com
+site_description: "Benutzerhandbuch für den Kirchenanhänger der Evangelisch-Reformierten Kirchengemeinde Neunkirchen"
+copyright: "Ev.-Ref. Kirchengemeinde Neunkirchen"
 theme: readthedocs
 markdown_extensions:
   - admonition
 plugins:
   - search
-  - print-site
+  - print-site:
+      toc_title: 'Inhaltsverzeichnis'
+      print_page_title: 'Druckansicht'
+      add_cover_page: true
+      cover_page_template: 'docs/assets/templates/cover_page.tpl'
 nav:
   - index.md
   - übernahme.md
@@ -13,3 +19,4 @@ nav:
   - stromversorgung.md
   - stromerzeuger.md
   - tontechnik.md
+  - network.md

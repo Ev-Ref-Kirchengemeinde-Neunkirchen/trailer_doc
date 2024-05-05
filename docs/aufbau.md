@@ -26,7 +26,7 @@ Die Stützen der Bodenklappe können mit demselben Schlüssel eingestellt werden
 
 ## Einhängen der Treppenstufen
 
-Die Treppenstufen können aus dem Aufbau entnommen werden, in dem der im Bild gekennzeichnete Griff gezogen wird. Die Treppenstufen sind vorne an der Bodenklappe einzuhängen und miteinander und mit der Bodenklappe zu verschrauben. Die Schrauben und passende Maulschlüssel befinden sich in der Kiste "Anhängerzubehör".
+Die Treppenstufen können aus dem Aufbau entnommen werden, in dem der im Bild gekennzeichnete Griff gezogen wird. Die Treppenstufen sind vorne an der Bodenklappe einzuhängen und mit der Bodenklappe zu verschrauben. Die Schrauben und passende Maulschlüssel befinden sich in der Kiste "Anhängerzubehör".
 
 Der für das Einstellen der Füße notwendige Maulschlüssel befindet sich ebenfalls in der Kiste, ggf. ist auch hier zu unterbauen.
 
