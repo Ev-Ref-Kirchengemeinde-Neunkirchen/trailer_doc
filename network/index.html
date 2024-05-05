@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://example.com/stromversorgung/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://example.com/network/" />
       <link rel="shortcut icon" href="../img/favicon.ico" />
-    <title>Aufbau der Stromversorgung - Kirchenanhänger</title>
+    <title>Netzwerk - Kirchenanhänger</title>
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
@@ -20,9 +20,9 @@
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Aufbau der Stromversorgung";
-        var mkdocs_page_input_path = "stromversorgung.md";
-        var mkdocs_page_url = "/stromversorgung/";
+        var mkdocs_page_name = "Netzwerk";
+        var mkdocs_page_input_path = "network.md";
+        var mkdocs_page_url = "/network/";
       </script>
     
     <!--[if lt IE 9]>
@@ -59,16 +59,8 @@
                 <li class="toctree-l1"><a class="reference internal" href="../aufbau/">Aufbau des Anhängers</a>
                 </li>
               </ul>
-              <ul class="current">
-                <li class="toctree-l1 current"><a class="reference internal current" href="#">Aufbau der Stromversorgung</a>
-    <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#wahl-des-energiequelle">Wahl des Energiequelle</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#einspeisen-des-anhangers">Einspeisen des Anhängers</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#sicherungsautomaten">Sicherungsautomaten</a>
-    </li>
-    </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../stromversorgung/">Aufbau der Stromversorgung</a>
                 </li>
               </ul>
               <ul>
@@ -79,8 +71,14 @@
                 <li class="toctree-l1"><a class="reference internal" href="../tontechnik/">Tontechnik</a>
                 </li>
               </ul>
-              <ul>
-                <li class="toctree-l1"><a class="reference internal" href="../network/">Netzwerk</a>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="#">Netzwerk</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#technische-daten">Technische Daten</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#administration-des-routers">Administration des Routers</a>
+    </li>
+    </ul>
                 </li>
               </ul>
       </div>
@@ -97,7 +95,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
-      <li class="breadcrumb-item active">Aufbau der Stromversorgung</li>
+      <li class="breadcrumb-item active">Netzwerk</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -106,21 +104,38 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h1 id="aufbau-der-stromversorgung">Aufbau der Stromversorgung</h1>
-<p>Für die Beleuchtung des Anhängers sowie für den Betrieb der Tontechnik ist eine Stromversorgung vonnöten.</p>
-<h2 id="wahl-des-energiequelle">Wahl des Energiequelle</h2>
-<p>Der Anhänger kann sowohl aus dem Stromnetz als auch mit einem Stromerzeuger betrieben werden. Für den letzteren Fall bitte den Abschnitt <a href="../stromerzeuger/">Inbetriebnahme des Stromerzeugers</a> beachten.</p>
-<h2 id="einspeisen-des-anhangers">Einspeisen des Anhängers</h2>
-<p>In der Kiste "Anhängerzubehör" befindet sich eine Kabeltrommel von 50m Länge. Diese ist bei einem Einsatz komplett abzuwickeln, um eine thermische Überlastung zu vermeiden.</p>
-<p>Der Anhänger selbst verfügt über eine 16A-CEE-Einspeisedose rechts (in Fahrtrichtung links) neben der Eingangstür auf der Stirnseite. Ein ein Meter langes CEE-Kabel sowie ein Adapterkabel von Schuko auf 16A-CEE befindet sich in der Zubehörkiste.</p>
-<h2 id="sicherungsautomaten">Sicherungsautomaten</h2>
-<p>In der in Fahrtrichtung linken oberen Ecke der Stirnseite befindet sich ein kleiner Schaltschrank mit fünf Sicherungsautomaten sowie einem FI-Schutzschalter. Die Automaten 1-4 sichern die vier Doppelsteckdosen in den vier Ecken des Anhängers ab, Automat Nummer 5 die Beleuchtung.</p>
+                <h1 id="netzwerk">Netzwerk</h1>
+<p>Der im Tontechnik-Rack verbaute Router spannt ein WLAN-Netzwerk auf, um eine Fernsteuerung des Mischpults zu ermöglichen. Eine Internetanbindung besteht nicht.</p>
+<h2 id="technische-daten">Technische Daten</h2>
+<table>
+<thead>
+<tr>
+<th>Datenpunkt</th>
+<th>Wert</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>SSID</strong></td>
+<td>wifi_trailer</td>
+</tr>
+<tr>
+<td><strong>PSK</strong></td>
+<td>trailer_password_20041902</td>
+</tr>
+<tr>
+<td><strong>Frequenzbänder</strong></td>
+<td>2.4 GHz und 5 GHz</td>
+</tr>
+</tbody>
+</table>
+<h2 id="administration-des-routers">Administration des Routers</h2>
+<p>Der Router ist im Netzwek unter der IP-Adresse 192.168.1.1 administrierbar.</p>
               
             </div>
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../aufbau/" class="btn btn-neutral float-left" title="Aufbau des Anhängers"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../stromerzeuger/" class="btn btn-neutral float-right" title="Stromerzeuger">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../tontechnik/" class="btn btn-neutral float-left" title="Tontechnik"><span class="icon icon-circle-arrow-left"></span> Previous</a>
     </div>
 
   <hr/>
@@ -144,10 +159,8 @@
   <span class="rst-current-version" data-toggle="rst-current-version">
     
     
-      <span><a href="../aufbau/" style="color: #fcfcfc">&laquo; Previous</a></span>
+      <span><a href="../tontechnik/" style="color: #fcfcfc">&laquo; Previous</a></span>
     
-    
-      <span><a href="../stromerzeuger/" style="color: #fcfcfc">Next &raquo;</a></span>
     
   </span>
 </div>
