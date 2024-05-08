@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://ev-ref-kirchengemeinde-neunkirchen.github.io/trailer_doc/</loc>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/aufbau/</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://ev-ref-kirchengemeinde-neunkirchen.github.io/trailer_doc/aufbau/</loc>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/network/</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://ev-ref-kirchengemeinde-neunkirchen.github.io/trailer_doc/network/</loc>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/stromerzeuger/</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://ev-ref-kirchengemeinde-neunkirchen.github.io/trailer_doc/stromerzeuger/</loc>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/stromversorgung/</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://ev-ref-kirchengemeinde-neunkirchen.github.io/trailer_doc/stromversorgung/</loc>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/tontechnik/</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://ev-ref-kirchengemeinde-neunkirchen.github.io/trailer_doc/tontechnik/</loc>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/%C3%BCbernahme/</loc>
-         <lastmod>2024-05-05</lastmod>
+         <loc>https://ev-ref-kirchengemeinde-neunkirchen.github.io/trailer_doc/%C3%BCbernahme/</loc>
+         <lastmod>2024-05-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
