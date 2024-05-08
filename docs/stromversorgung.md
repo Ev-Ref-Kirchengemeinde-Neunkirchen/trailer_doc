@@ -8,9 +8,15 @@ Der Anhänger kann sowohl aus dem Stromnetz als auch mit einem Stromerzeuger bet
 
 ## Einspeisen des Anhängers
 
-In der Kiste "Anhängerzubehör" befindet sich eine Kabeltrommel von 50m Länge. Diese ist bei einem Einsatz komplett abzuwickeln, um eine thermische Überlastung zu vermeiden.
+Im Bereich der Kanzel befindet sich eine Kabeltrommel von 50m Länge. Diese ist bei einem Einsatz komplett abzuwickeln, um eine thermische Überlastung zu vermeiden.
+
+<figure markdown="span">
+![Kabeltrommel](assets/img/Kabeltrommel_montiert.png){: style="width:300px"}<figcaption>Verstaute Kabeltrommel</figcaption></figure>
 
 Der Anhänger selbst verfügt über eine 16A-CEE-Einspeisedose rechts (in Fahrtrichtung links) neben der Eingangstür auf der Stirnseite. Ein ein Meter langes CEE-Kabel sowie ein Adapterkabel von Schuko auf 16A-CEE befindet sich in der Zubehörkiste.
+
+<figure markdown="span">
+![Einspeisedose](assets/img/einspeisedose.png){: style="width:300px"}<figcaption>Einspeisedose</figcaption></figure>
 
 ## Sicherungsautomaten
 

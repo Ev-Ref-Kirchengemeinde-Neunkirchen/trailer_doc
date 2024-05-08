@@ -28,6 +28,12 @@ Das Starten des Generators erfolgt durch die folgenden Schritte:
 
 6. Kabeltrommel zum Anhänger anschließen
 
+<figure markdown="span">
+![Stromerzeuger](assets/img/Stromerzeuger.png){: style="width:300px"}<figcaption>Seitenansicht des Stromerzeugers mit Tankbelüftung (1), Betriebsschalter (2), Choke (3) und Anlasserseil (4)</figcaption></figure>
+
+<figure markdown="span">
+![Stromerzeuger front](assets/img/Stromerzeuger_front.png){: style="width:300px"}<figcaption>Frontansicht des Stromerzeugers mit Steckdosen (1) und Erdungskontakt (2)</figcaption></figure>
+
 ## Nachtanken
 
 Zum Nachtanken Generator abstellen, dabei darauf achten, dass kein Kraftstoff verschüttet wird und auf heiße Motorenteile kommt.

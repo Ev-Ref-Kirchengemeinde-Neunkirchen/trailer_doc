@@ -29,6 +29,15 @@ Das Tontechnikrack ist mit folgenden Einbauten versehen (von unten nach oben):
 
 Des Weiteren ist im Rack ein Bluetooth-Receiver zur drahtlosen Audiowiedergabe verbaut.
 
+<figure markdown="span">
+![Rack Tontechnik](assets/img/Rack_Tontechnik.png){: style="width:300px"}<figcaption>Tontechnikrack</figcaption></figure>
+
+<figure markdown="span">
+![Schublade mit Kabeln](assets/img/Schublade_Kabel.png){: style="width:300px"}<figcaption>Schublade mit Kabeln</figcaption></figure>
+
+<figure markdown="span">
+![Schublade mit Kabeln](assets/img/Schublade_Material.png){: style="width:300px"}<figcaption>Schublade mit Gerätschaften</figcaption></figure>
+
 ## Inbetriebnahme der Tontechnik
 
 1. Rack mit dem Powercon-Kabel mit der Steckdose verbinden

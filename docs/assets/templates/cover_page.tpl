@@ -21,4 +21,4 @@
     </p></div>
     {% endif %}
 
-<img style="max-height: 100px" src="/assets/img/logo.png" />
+<img style="max-height: 100px" src="/assets/img/logo.jpg" />
