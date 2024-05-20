@@ -4,7 +4,7 @@
         <h1>{{ config.site_name }}</h1>
     {% endif %}
 
-<img src="/assets/img/cover.jpg" />
+<img src="assets/img/cover.jpg" />
 </div>
 
 
@@ -21,4 +21,4 @@
     </p></div>
     {% endif %}
 
-<img style="max-height: 100px" src="/assets/img/logo.jpg" />
+<img style="max-height: 100px" src="assets/img/logo.jpg" />
